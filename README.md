@@ -30,7 +30,7 @@
 
 1. Clone the repository:  
 
-git clone https: https://github.com/NextAI-Gen/smart-career-navigator/new/main.git
+git clone https: https://github.com/NextAI-Gen/smart-career-navigator
 
 2. Navigate to the project folder:
 
