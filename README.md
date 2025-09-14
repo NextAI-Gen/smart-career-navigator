@@ -34,19 +34,20 @@ git clone https: https://github.com/NextAI-Gen/smart-career-navigator/new/main.g
 2. Navigate to the project folder:
 
 cd smart-career-navigator
-
+```bash
 
 3. Install dependencies:
 
 npm install
-
+```bash
 
 4. Start the development server:
 
 npm run dev
-
+```bash
 
 5. Open http://localhost:3000 in your browser.
+```bash
 
 ## Usage
 1. Open the website in your browser.  
